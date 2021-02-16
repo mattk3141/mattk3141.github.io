@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### UMBC Projcts 
 
-[Project 1 Title](/sample_page)
+[Mapping Trees At UMBC](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
