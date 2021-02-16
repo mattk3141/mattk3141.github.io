@@ -8,7 +8,7 @@
 <img src="images/Trees-page-001.jpg?raw=true"/>
 
 ---
-[Coding Project HTML](/pdf/sample_presentation.pdf)
+[Coding Project HTML](https://codepen.io/skipeople314/full/ExyGxER)
 <img src="images/codepen_final_map.JPG?raw=true"/>
 
 ---
