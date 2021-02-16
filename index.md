@@ -5,7 +5,7 @@
 ### UMBC Projcts 
 
 [Mapping Trees At UMBC](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Trees-page-001.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
