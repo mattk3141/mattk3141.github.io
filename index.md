@@ -8,8 +8,8 @@
 <img src="images/Trees-page-001.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Coding Project HTML](/pdf/sample_presentation.pdf)
+<img src="images/codepen_final_map.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
